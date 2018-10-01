@@ -1,11 +1,14 @@
 # mysql_connection
 This contains a ruby script which establishes connection with mysql and execute queries.
 
+# Note: 
+Please make sure mysql is configured to access remotely with proper credentials.
+
 ## Installations required
 
 Following gems are needed to install:
 ```
-gem  install mysql
+gem install mysql
 gem install rspec
 ```
 
