@@ -1,10 +1,10 @@
-# mysql_connection
+# Connection to MySQL - mysql_connection
 This contains a ruby script which establishes connection with mysql and execute queries.
 
-# Note: 
+# Note:
 Please make sure mysql is configured to access remotely with proper credentials.
 
-## Installations required
+## Installations required (Gems)
 
 Following gems are needed to install:
 ```
@@ -32,7 +32,7 @@ Note: Please note to use appropriate database credentials and existing database 
 ```
 client.execute_select_all('table_name')
 ```
-If you want to fetch specific columns. 
+If you want to fetch specific columns.
 
 ```
 client.execute_select_all('table_name', ['column_name_1', 'column_name_1'])
