@@ -4,7 +4,7 @@ This contains a ruby script which establishes connection with mysql and execute 
 # Note:
 Please make sure mysql is configured to access remotely with proper credentials.
 
-## Installations required (Gems)
+## Installations required (Gems and dependecies)
 
 Following gems are needed to install:
 ```
