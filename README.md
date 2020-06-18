@@ -1,3 +1,6 @@
+# Test Release 1.1.1
+# Test Release commit
+
 # Release 1.1
 
 # Connection to MySQL - mysql_connection
