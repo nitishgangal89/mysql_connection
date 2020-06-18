@@ -1,9 +1,19 @@
+
+# Test Release 1.1.1
+# Test Release commit
+
+# Second issue 1
+# Second issue 2
+
+# Release 1.1
+
 # test1
 # test2
 # test3
 #test 4
 
 # Release - Master
+
 
 # Connection to MySQL - mysql_connection
 This contains a ruby script which establishes connection with mysql and execute queries.
