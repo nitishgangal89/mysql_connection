@@ -1,4 +1,12 @@
+
 # Release 1.1
+
+# test1
+# test2
+# test3
+#test 4
+
+# Release - Master
 
 # Connection to MySQL - mysql_connection
 This contains a ruby script which establishes connection with mysql and execute queries.
@@ -6,7 +14,7 @@ This contains a ruby script which establishes connection with mysql and execute 
 # Note:
 Please make sure mysql is configured to access remotely with proper credentials.
 
-## Installations required (Gems)
+## Installations required (Gems and dependecies)
 
 Following gems are needed to install:
 ```
