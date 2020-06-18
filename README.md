@@ -1,3 +1,5 @@
+# Another issue
+
 # Release 1.1
 
 # Connection to MySQL - mysql_connection
