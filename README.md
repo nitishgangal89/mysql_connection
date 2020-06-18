@@ -1,6 +1,9 @@
 # Test Release 1.1.1
 # Test Release commit
 
+# Second issue 1
+# Second issue 2
+
 # Release 1.1
 
 # Connection to MySQL - mysql_connection
